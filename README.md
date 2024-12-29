@@ -32,10 +32,10 @@ The goal of the project is to classify the 10 classes of CIFAR-10 images with hi
     pip install -r requirements.txt
 ```
 3.	To train the custom CNN model:
-```bash
- python CNN_main.py
+   ```bash
+     python CNN_main.py
 ```
-4. To fine-tune the pretrained ResNet-18 model:
+4. To fine-tune the pretrained model:
    ```bash
    python CNN_main.py pretrained=1
    ```
