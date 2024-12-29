@@ -1,6 +1,6 @@
 # CIFAR-10 Classification with CNN and Pretrained Model
 
-This repository contains a project for image classification on the CIFAR-10 dataset. It implements two models:
+This repository contains a project (Done in my CMPUT 328 class) for image classification on the CIFAR-10 dataset. It implements two models:
 
 1. A custom-built Convolutional Neural Network (CNN) from scratch.
 2. A fine-tuned pretrained ConvNeXt-Tiny model.
