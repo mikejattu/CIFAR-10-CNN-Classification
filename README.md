@@ -5,7 +5,7 @@ This repository contains a project for image classification on the CIFAR-10 data
 1. A custom-built Convolutional Neural Network (CNN) from scratch.
 2. A fine-tuned pretrained ConvNeXt-Tiny model.
 
-The goal of the project is to classify the 10 classes of CIFAR-10 images with high accuracy. The custom CNN achieves an accuracy of over 65%, while the pretrained ResNet-18 model achieves an accuracy of 90% or higher after fine-tuning.
+The goal of the project is to classify the 10 classes of CIFAR-10 images with high accuracy. The custom CNN achieves an accuracy of over 65%, while the pretrained ConvNeXt-Tiny model achieves an accuracy of 90% or higher after fine-tuning.
 
 ## Project Overview
 
